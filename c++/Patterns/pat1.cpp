@@ -16,4 +16,18 @@ int main()
         cout<<endl;
     }
     return 0;
+    """
+    Enter number of rows10
+Enter number of stars per row5
+*****
+*****
+*****
+*****
+*****
+*****
+*****
+*****
+*****
+*****
+    """
 }
